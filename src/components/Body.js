@@ -1,12 +1,12 @@
-import Header from "./Header";
+// import Header from "./Header";
 import Navbar from "./Navbar";
-import List from "./List";
+// import List from "./List";
+import Main from "./Main";
 function Body() {
     return (
         <>
         <Navbar/>
-        <Header/>
-        <List />
+        <Main/>
         </>
     )
 }
